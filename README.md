@@ -17,7 +17,7 @@ How to determine the proper tests for a program
 How to simplify the structure of your program using common patterns
 
 
-Building on the core method from SPD1, this course quickly expands to cover more complex programs. You will design animations and games in which a number of objects move around the screen. You will also design programs that operate on family trees and other hierarchical structures.
+Part 2 - Building on the core method from SPD1, this course quickly expands to cover more complex programs. You will design animations and games in which a number of objects move around the screen. You will also design programs that operate on family trees and other hierarchical structures.
 
 But even as your programs get more complex, you will find that the design method makes them easy to write; and that the resulting code is well-structured, well-tested and easy to maintain.
 
@@ -32,7 +32,7 @@ How to identify information with inherently hierarchical structure.
 How to represent linear and hierarchical information as data.
 Designing functions to operate on such data.
 
-In part 3 of the How to Code – Systematic Program Design series, you will design programs that even experienced developers would find challenging. The design method you have been learning since How To Code - Systematic Program Design Part 1 will really deliver here, because you will be able to crank out these programs with relative ease.
+Part 3 of the How to Code – Systematic Program Design series, you will design programs that even experienced developers would find challenging. The design method you have been learning since How To Code - Systematic Program Design Part 1 will really deliver here, because you will be able to crank out these programs with relative ease.
 
 By learning how to capture common data and control structures using abstraction, your programs will get shorter and better tested.
 
